@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="/home/vincent/Documents/Pro/SIS/Crypto/crypto-158/jars/bcmail-jdk15on-158.jar"/>
+	<classpathentry kind="lib" path="/home/vincent/Documents/Pro/SIS/Crypto/crypto-158/jars/bcpg-jdk15on-158.jar"/>
+	<classpathentry kind="lib" path="/home/vincent/Documents/Pro/SIS/Crypto/crypto-158/jars/bcpkix-jdk15on-158.jar"/>
+	<classpathentry kind="lib" path="/home/vincent/Documents/Pro/SIS/Crypto/crypto-158/jars/bcprov-debug-jdk15on-158.jar"/>
+	<classpathentry kind="lib" path="/home/vincent/Documents/Pro/SIS/Crypto/crypto-158/jars/bcprov-ext-debug-jdk15on-158.jar"/>
+	<classpathentry kind="lib" path="/home/vincent/Documents/Pro/SIS/Crypto/crypto-158/jars/bcprov-ext-jdk15on-158.jar"/>
+	<classpathentry kind="lib" path="/home/vincent/Documents/Pro/SIS/Crypto/crypto-158/jars/bcprov-jdk15on-158.jar"/>
+	<classpathentry kind="lib" path="/home/vincent/Documents/Pro/SIS/Crypto/crypto-158/jars/bctest-jdk15on-158.jar"/>
+	<classpathentry kind="lib" path="/home/vincent/Documents/Pro/SIS/Crypto/crypto-158/jars/bctls-jdk15on-158.jar"/>
+	<classpathentry kind="lib" path="/home/vincent/Documents/Pro/SIS/Crypto/crypto-158/jars/jce-jdk13-158.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
